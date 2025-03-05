@@ -15,7 +15,9 @@
 <!-- बैज -->
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=instadownloader&theme=flag-india)
 
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=RISHUSTRING&theme=flag-india)
+[![GIF](https://github.com/RishuBot/RISHUSTRING/blob/main/RISHUBOT.gif)](https://github.com/RishuBot)
+   [![𝐌𝐑.𝐑𝐈𝐒𝐇𝐔](https://github-stats-alpha.vercel.app/api?username=RishuBot "RishuBot")](https://github-stats-alpha.vercel.app/api?username=RishuBot "RISHU")
   
 
 **InstaDownloader** एक वेब एप्लिकेशन है जो उपयोगकर्ताओं को इंस्टाग्राम से रील्स, स्टोरीज, और पोस्ट्स डाउनलोड करने की सुविधा प्रदान करता है। यह एक उपयोगकर्ता-मित्रवत इंटरफ़ेस के साथ सहज अनुभव सुनिश्चित करता है।

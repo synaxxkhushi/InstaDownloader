@@ -13,9 +13,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&width=420&lines=𝗜𝗡𝗦𝗧𝗔+𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥+𝗪𝗘𝗕𝗦𝗜𝗧𝗘+𝗕𝗬+𝐑𝐈𝐒𝐇𝐔+𝗧𝗘𝗔𝗠+.+.+.+.+.)
 
 <!-- बैज -->
-![GitHub ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=RISHUMUSIC&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=RISHUMUSIC&theme=flag-india)
 [![GIF](https://github.com/RishuBot/RISHUSTRING/blob/main/RISHUBOT.gif)](https://github.com/RishuBot)
-   [![𝐌𝐑.𝐑𝐈𝐒𝐇𝐔](https://github-stats-alpha.vercel.app/api?username=RishuBot "RishuBot")](https://github-stats-alpha.vercel.app/api?username=insta downloader"RISHU")
+   [![𝐌𝐑.𝐑𝐈𝐒𝐇𝐔](https://github-stats-alpha.vercel.app/api?username=RishuBot"RishuBot")](https://github-stats-alpha.vercel.app/api?username=insta downloader"RISHU")
 <p align="center">
 ## 🙋‍♂️ परिचय
 

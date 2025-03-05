@@ -23,30 +23,50 @@
 **InstaDownloader** एक वेब एप्लिकेशन है जो उपयोगकर्ताओं को इंस्टाग्राम से रील्स, स्टोरीज, और पोस्ट्स डाउनलोड करने की सुविधा प्रदान करता है। यह एक उपयोगकर्ता-मित्रवत इंटरफ़ेस के साथ सहज अनुभव सुनिश्चित करता है।
 
 ## 🛠️ फीचर्स
+# 📸 InstaDownloader – Download Instagram Reels, Stories, & More!
 
-- **रील्स डाउनलोड करें:** इंस्टाग्राम रील्स को आसानी से डाउनलोड करें।
-- **स्टोरीज डाउनलोड करें:** अपनी पसंदीदा स्टोरीज को सहेजें।
-- **पोस्ट्स डाउनलोड करें:** इंस्टाग्राम पोस्ट्स को बिना किसी झंझट के डाउनलोड करें।
-- **प्रोफ़ाइल पिक्चर:** फुल-साइज़ प्रोफ़ाइल पिक्चर्स को तुरंत डाउनलोड करें।
-- **हाइलाइट्स डाउनलोड करें:** इंस्टाग्राम हाइलाइट्स को आसानी से सहेजें।
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/4f3f19b144ea90c1c341bfb98b65f03e.gif" width="60%" alt="InstaDownloader">
+</p>  
 
-## 🚀 तकनीकी स्टैक
+> 🚀 **InstaDownloader** is a powerful web application that allows users to **download Instagram reels, stories, posts, highlights, and profile pictures** with ease. Featuring a **modern UI, lightning-fast performance, and a seamless user experience**, this tool ensures hassle-free media downloads from Instagram.  
 
-- **फ्रंटएंड:**
+---
+
+## 🎯 Features  
+
+✅ **Download Reels** – Save your favorite Instagram reels instantly.  
+✅ **Download Stories** – Never miss out on Instagram stories again.  
+✅ **Download Posts** – Get high-quality images & videos from Instagram posts.  
+✅ **Full-Size Profile Picture** – View and download Instagram profile pictures in **HD**.  
+✅ **Download Highlights** – Store important Instagram highlights forever.  
+✅ **Fast & Lightweight** – Blazing-fast performance powered by modern technologies.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+
+### **Backend**  
+*(Specify backend technologies here, e.g., Node.js, Express, MongoDB, Firebase, etc.)*  
+
+---
+
+## 🚀 Installation & Setup  
+
+Follow these simple steps to run the project locally:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/RishuBot/InstaDownloader.git
+cd InstaDownloader
   - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   - ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=flat&logo=vite&logoColor=white)
 
-- **बैकएंड:**
-  - [यहां बैकएंड तकनीकों को निर्दिष्ट करें]
-
-## 🛠️ इंस्टॉलेशन
-
-स्थानीय रूप से इस प्रोजेक्ट को चलाने के लिए, निम्नलिखित चरणों का पालन करें:
-
-1. **रिपॉजिटरी क्लोन करें:**
-
-   ```bash
-   git clone https://github.com/RishuBot/InstaDownloader.git
-   cd InstaDownloader

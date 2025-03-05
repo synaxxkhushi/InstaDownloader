@@ -5,6 +5,9 @@
 <!-- बैनर इमेज -->
 <img src="https://envs.sh/enO.jpg" alt="InstaDownloader बैनर">
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- टाइपिंग इफ़ेक्ट -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&width=420&lines=𝗜𝗡𝗦𝗧𝗔+𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥+𝗪𝗘𝗕𝗦𝗜𝗧𝗘+𝗕𝗬+𝐑𝐈𝐒𝐇𝐔+𝗧𝗘𝗔𝗠+.+.+.+.+.)
 

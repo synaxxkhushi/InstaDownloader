@@ -26,7 +26,7 @@
 # 📸 InstaDownloader – Download Instagram Reels, Stories, & More!
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/4f3f19b144ea90c1c341bfb98b65f03e.gif" width="60%" alt="InstaDownloader">
+  <img src="https://envs.sh/enO.jpg" width="60%" alt="InstaDownloader">
 </p>  
 
 > 🚀 **InstaDownloader** is a powerful web application that allows users to **download Instagram reels, stories, posts, highlights, and profile pictures** with ease. Featuring a **modern UI, lightning-fast performance, and a seamless user experience**, this tool ensures hassle-free media downloads from Instagram.  

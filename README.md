@@ -14,7 +14,7 @@
 
 <!-- बैज -->
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=instadownloader&theme=flag-india)
-[![GIF](https://envs.sh/Pn3.mp4)](https://github.com/RishuBot)
+
 
   
 

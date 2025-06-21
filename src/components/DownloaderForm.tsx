@@ -34,7 +34,7 @@ const DownloaderForm: React.FC<DownloaderFormProps> = ({ className }) => {
     
     try {
       // Using the provided API
-      const apiUrl = `https://instadownloaderbyansh.ytansh038.workers.dev/?url=${encodeURIComponent(url)}`;
+      const apiUrl = `https://insta-dl.hazex.workers.dev/?url=${encodeURIComponent(url)}`;
       
       // Since the API directly returns the video file, we'll just set the download URL
       setDownloadUrl(apiUrl);
